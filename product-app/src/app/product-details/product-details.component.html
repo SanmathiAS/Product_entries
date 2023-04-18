@@ -1,4 +1,16 @@
-<p>
-  product-details works!
-</p>
-<a routerLink="/product" routerLinkActive="active">Got to home</a>
+<div class="details" *ngIf="fetchProductData">
+  <h3>Showing product details of : {{ fetchProductData.productName }}</h3>
+  <div class="row product-details">
+    <div class="col-sm-6">
+      <div>
+        <h3>Id :{{ fetchProductData.productId }}</h3>
+         <h3>productCode : {{ fetchProductData.productCode }}</h3>
+          <h3>releaseDate : {{ fetchProductData.releaseDate }}</h3>
+        <h3>Description : {{ fetchProductData.description }}</h3>
+      </div>
+    </div>
+  </div>
+  <button>
+    <a routerLink="/product" routerLinkActive="active">Got back to home</a>
+  </button>
+</div>

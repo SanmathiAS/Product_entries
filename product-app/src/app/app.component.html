@@ -1,5 +1,8 @@
-
-<app-product-list></app-product-list>
-
-
-<router-outlet></router-outlet>
+<h1>Welcome to Product APP</h1>
+<h1><img [src]="ImagePath" style="width: 150px; height: 140px" /></h1>
+<h3>
+  <a routerLink="/product" routerLinkActive="active">Click here to begin</a>
+</h3>
+<div class="container">
+  <router-outlet></router-outlet>
+</div>

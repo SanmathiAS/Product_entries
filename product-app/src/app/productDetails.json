@@ -1,0 +1,43 @@
+[
+    {
+      "productId": 1,
+      "productName": "Coffee Mug",
+      "productCode": "GDN-0011",
+      "releaseDate": "March 19, 2016",
+      "description": "custamized coffee mug for special occations"
+      
+    },
+    {
+        "productId": 2,
+        "productName": "Water bottle",
+        "productCode": "GDN-0012",
+        "releaseDate": "March 19, 2016",
+        "description": "leak proff water botter of 1 liter"
+        
+      },
+      {
+        "productId": 3,
+        "productName": "Smart Phone",
+        "productCode": "GDN-0013",
+        "releaseDate": "March 19, 2016",
+        "description": "latest build smart phone with smart pen"
+        
+      },
+      {
+        "productId": 4,
+        "productName": "laptop",
+        "productCode": "GDN-0014",
+        "releaseDate": "March 19, 2016",
+        "description": "laptop with 38-inch screen"
+        
+      },
+      {
+        "productId": 5,
+        "productName": "Office Chair",
+        "productCode": "GDN-0015",
+        "releaseDate": "March 19, 2016",
+        "description": "Comfortable chair wooden handle."
+        
+      }
+
+]

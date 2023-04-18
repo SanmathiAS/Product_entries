@@ -1,0 +1,16 @@
+.product-details {
+    background: rgb(158, 134, 134); 
+    width: 30%; 
+    padding: 60px;
+}
+.button , a{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+  

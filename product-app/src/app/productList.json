@@ -1,32 +1,35 @@
-[  
+
+[ 
+  
     {  
       "id": 1,  
       "name": "Coffee Mug",  
       "price": 19769,  
-      "address": "kgkuauwgdkaf"  
+      "productCode": "GDN-0011"
     },  
     {  
       "id": 2,  
-      "name": "Bottle",  
+      "name": "Water Bottle",  
       "price": 76979,  
-      "address": "sdgetrhseds"  
+      "productCode": "GDN-0012" 
+
     },  
     {  
       "id": 3,  
-      "name": "Phone",  
+      "name": "Smart Phone",  
       "price": 7673,  
-      "address": "rsdgwsegbd"  
+      "productCode": "GDN-0013" 
     },  
     {  
       "id": 4,  
       "name": "laptop",  
       "price": 77978,  
-      "address": "bwsrhfsdnxb"  
+      "productCode": "GDN-0014" 
     },  
     {  
       "id": 5,  
-      "name": "flowers",  
+      "name": "Office Chair",  
       "price": 1312,  
-      "address": "vbedrhfdbf"  
+      "productCode": "GDN-0015"
     }  
   ]  
