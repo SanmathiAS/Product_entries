@@ -1,0 +1,32 @@
+[  
+    {  
+      "id": 1,  
+      "name": "Coffee Mug",  
+      "price": 19769,  
+      "address": "kgkuauwgdkaf"  
+    },  
+    {  
+      "id": 2,  
+      "name": "Bottle",  
+      "price": 76979,  
+      "address": "sdgetrhseds"  
+    },  
+    {  
+      "id": 3,  
+      "name": "Phone",  
+      "price": 7673,  
+      "address": "rsdgwsegbd"  
+    },  
+    {  
+      "id": 4,  
+      "name": "laptop",  
+      "price": 77978,  
+      "address": "bwsrhfsdnxb"  
+    },  
+    {  
+      "id": 5,  
+      "name": "flowers",  
+      "price": 1312,  
+      "address": "vbedrhfdbf"  
+    }  
+  ]  
